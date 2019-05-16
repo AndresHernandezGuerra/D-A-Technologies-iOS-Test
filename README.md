@@ -15,4 +15,4 @@ Time spent = ~16 hours
 -   Purely programming time: 30%
 -   Testing of functions and UI: 20%
 
-Note that this is not the exact time division, but rather an approximation. Thank you once again for this opportunity, I hope you enjoy my app!
+Note that this is not the exact time division, but rather an approximation. Thank you for this opportunity, and I hope you enjoy my app!
