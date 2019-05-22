@@ -5,7 +5,7 @@ Please note that I have used Swift 4.2, a migration to Swift 5.0 was available b
 Finally, make sure when testing that the volume is turned up, I have added some cool audio effects!
 
 As for the total time estimate and breakdown, it would be as follows:
-Time spent = ~16 hours
+Time spent = ~13 hours
 
 -   Reading and understanding instructions: 5%
 -   Familiarizing myself with the code already written: 5%
